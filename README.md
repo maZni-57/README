@@ -1,5 +1,4 @@
 # README
-# [Moi-moi]
 
 CS undergrad | Interested in security analytics, AI-driven threat detection, and data-driven defense.
 
